@@ -40,7 +40,7 @@ ls
 cd ~
 .vimrc
 Type your vim/nano customizations below:
-"setnumber"
+"set number"
 "set autoindent"
 "set textwidth=80"
 
